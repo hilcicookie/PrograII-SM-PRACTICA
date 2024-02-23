@@ -1,3 +1,11 @@
-<resources>
-    <string name="app_name">ControlesBasicos</string>
-</resources>
+<reource>
+</string-array name="spnArea">
+<item>Manzana</item>
+<item>Metro Cuadrado</item>
+<item>Pie cuadrado</item>
+<item>Vara cuadrada</item>
+<item>Yardar cuadrada</item>
+<item>Tareas</item>
+<item>Hectárea</item>
+    </string-array>
+    </resources>
